@@ -31,6 +31,6 @@ const NavStyles = styled(motion.div)`
     align-items: center;
 
     svg{
-        font-size: 2rem;
+        font-size: 3rem;
     }
 `
