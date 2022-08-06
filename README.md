@@ -1,6 +1,6 @@
 # Recipe-app project using react
 
----
+Vist my website here => 
 
 ## It was so funny to build...
 
@@ -8,21 +8,14 @@ It's really amazing to build a website using reactJS because it gives a really f
 
 ### Tools:
 
-- reactJS
-- HTML - CSS
+- React.js
+- JavaScript
+- CSS/HTML
+- JSX
+- Git/GitHub
+- APIs
 - styled - (To write css code inside the react app)
 - motion (To add some animation in the website)
 
-## Run
-
-#### `npm start`
-
-Runs the app in the development mode.\
-
-#### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-
-#### `npm run build`
-
-Builds the app for production to the `build` folder.\
+#### What did I earn out of this project?
+> The main thing I have learned from this project is **APIs**, I learned how to request them and apply them to my website. How to render the data and filter them by using functionalities also I used styled.js to write my CSS it was my first try for it but after this try, I fell in love with it and I started using it almost with every react project all that because it features it enables me to use sass/scss features and to write JS logic within the styles! What a fantastic tool. Lastly, I used motion To add some animation on the website to make it smooth.
