@@ -36,29 +36,29 @@ Styled components can easily style HTML documents, most commonly used with **Rea
 
 ## How to write styles with styled-components?
 
-1. Download the dependies:
+1. Download the dependency:
 ```
 npm install styled-components
 yarn add styled-components
 ```
 
-2. Import `import styled from 'styled-compoennts'`
+2. Import `import styled from 'styled-components'`
 
 3. Create styled file `FileName.styled.js`
 
->       Cause our styled-component file end with FileName.styled.(js/ts) we need to write it with javascript formate:
+>       Cause our styled-component file ends with FileName.styled.(js/ts) we need to write it in javascript format:
 
 
 4. Declare a `const` and name it.
 `const Button`
 
-5. specify an HtmL element you want to design `Button, header, h1, section` in our example we will have 
+5. specify an HTML element you want to design `Button, header, h1, section` In our example we will have 
 `const Button = styled.button`
 
-6. Use a backtickes to include all the styles inside [``]
+6. Use backticks to include all the styles inside [``]
 ```JS
 const Button = styled.button`
-   courser: pointer;
+   course: pointer;
    font-size: 1rem;
    border: none;
    background-color: #333;
