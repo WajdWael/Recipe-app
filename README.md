@@ -4,6 +4,8 @@
 ![image](https://github.com/WajdWael/Recipe-app/assets/81550668/7c70f9d4-ca52-4ac7-8d5c-bf9cd123c9e6)
 [Vist site](https://wajdwael.github.io/Recipe-app/)
 
+Support us with a ⭐!
+
 # Tools: ⛏️
 - React.js
 - JavaScript
